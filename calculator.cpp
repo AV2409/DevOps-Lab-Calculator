@@ -6,7 +6,7 @@ int main() {
     double a, b;
     char op;
 
-    cout << "Welcome to Calculator" << endl;
+    cout << "Welcome to Basic Calculator" << endl;
 
     cout << "Enter first number: ";
     cin >> a;
